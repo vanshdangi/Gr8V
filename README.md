@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Dangi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [Library Management Application](https://github.com/Gr8V/Library-Management)
+- 🔭 I’m currently working on [FuelIQ](https://github.com/Gr8V/FuelIQ)
 
 - 🌱 I’m currently learning **C++,AI/ML, Frontend Development**
 
