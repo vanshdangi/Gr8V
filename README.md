@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on a [Neural Network Library In C++](https://github.com/Gr8V/neural-network-library-cpp)<br>🌱 I’m currently learning Machine Learning
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshdangi) 
 
